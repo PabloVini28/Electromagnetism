@@ -1,9 +1,9 @@
 # ELECTROMAGNETISM ⚡🧲
-## ELECTROMAGNETISM DOCUMENTS 💡
+## Electromagnetism documents 💡
 
   - CONTENTS COVERED DURING THE ELECTROMAGNETISM COURSE - TESTS, RESOLVED EXERCISES AND ACADEMIC ARTICLE 📄
 
-## BOOKS USED DURING THE COURSE 📚
+## Books used during the course 📚
 
   - Fundamentos de Física - Eletromagnetismo - Halliday & Resnick
   - Curso de Física Básica - H.Moyses Nussenzveig
